@@ -1,0 +1,24 @@
+{
+  "name": "Discord-Bot",
+  "version": "1.0.0",
+  "description": "\"Um pequeno bot para o discord.\"",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Demonize-Me-Again/Discord-Bot.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Demonize-Me-Again/Discord-Bot/issues"
+  },
+  "homepage": "https://github.com/Demonize-Me-Again/Discord-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "dotenv": "^10.0.0"
+  }
+}
